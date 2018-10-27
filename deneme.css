@@ -1,0 +1,78 @@
+#dd {
+	font-size:30px;
+	color:purple;
+		}
+body {
+	background-repeat: no-repeat;
+
+			}
+.stc{
+		border-left:6px solid purple;
+		
+					}
+	
+a:link {
+        font-weight: bold;
+		font-style : oblique;
+		font-family : arial;
+		font-size: 18px;
+		color: purple;	
+		vertical align: baseline;
+		text-decoration:none;
+		}
+a:visited {
+text-decoration:none;
+		}
+a:hover {	font-weight: bold;
+		font-style : oblique;
+		font-family : arial;
+		font-size: 22px;
+		color: black;	
+		vertical align: baseline;
+		text-decoration:none;
+		}
+a:active {
+text-decoration:none;
+		}
+
+div.footer {
+        margin-top: 200px;
+		}
+.burak {
+		padding: 1px;
+		margin: 1px;
+		border-width: 5px;
+		border-color: purple;
+		border-style: outset;
+ 			}
+a.ds:link {	font-weight: bold;
+		font-style : oblique;
+		font-family : arial;
+		font-size: 18px;
+		color: black;	
+		vertical-align: baseline;
+		text-decoration:non;
+		}
+.liste {
+	        font-weight: bold;
+		font-style: oblique;
+		font-family: arial;
+		color: purple;
+		font-size: 18px;
+		
+			}
+.liste2 {
+		color: black;
+		font-weight: bold;
+		font-style: oblique;
+		font-family: arial;
+		font-size: 18px;
+			}
+
+p {
+	 	font-weight: bold;
+		font-style: oblique;
+		font-family: arial;
+		color: black;
+		font-size: 14px;
+       }
